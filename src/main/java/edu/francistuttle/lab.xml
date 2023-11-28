@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lab>
+    <computer id="1234">
+        <manufacturer>Dell</manufacturer>
+        <yearPurchased>2005</yearPurchased>
+        <processor>i7</processor>
+        <monitor id="123">
+            <manufacturer>Dell</manufacturer>
+            <resolution>1920x1080</resolution>
+        </monitor>
+        <monitor id="121">
+            <manufacturer>Dell</manufacturer>
+            <resolution>1920x1080</resolution>
+        </monitor>
+    </computer>
+
+    <computer id="1233">
+        <manufacturer>Apple</manufacturer>
+        <yearPurchased>2011</yearPurchased>
+        <processor>i9</processor>
+        <monitor id="122">
+            <manufacturer>Apple</manufacturer>
+            <resolution>1920x1080</resolution>
+        </monitor>
+        <monitor id="124">
+            <manufacturer>Apple</manufacturer>
+            <resolution>1920x1080</resolution>
+        </monitor>
+    </computer>
+
+    <computer id="1223">
+        <manufacturer>Google</manufacturer>
+        <yearPurchased>2015</yearPurchased>
+        <processor>i4</processor>
+        <monitor id="133">
+            <manufacturer>Google</manufacturer>
+            <resolution>1920x1080</resolution>
+        </monitor>
+        <monitor id="132">
+            <manufacturer>Google</manufacturer>
+            <resolution>1920x1080</resolution>
+        </monitor>
+    </computer>
+
+    <computer id="1432">
+        <manufacturer>Lenovo</manufacturer>
+        <yearPurchased>2023</yearPurchased>
+        <processor>i10</processor>
+        <monitor id="142">
+            <manufacturer>Lenovo</manufacturer>
+            <resolution>1920x1080</resolution>
+        </monitor>
+        <monitor id="141">
+            <manufacturer>Lenovo</manufacturer>
+            <resolution>1920x1080</resolution>
+        </monitor>
+    </computer>
+</lab>
